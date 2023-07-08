@@ -5,5 +5,11 @@ public class Main {
         Omnax.sun="1";
         Omnax.planets="2";
         Omnax.star="4";
+
+        FeatureSun Xeon = new FeatureSun();
+        Xeon.Name="treo";
+        Xeon.size="-32432km";
+        Xeon.temp="-344449843 celcius";
+
     }
 }
